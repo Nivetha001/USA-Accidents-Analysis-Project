@@ -20,7 +20,7 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 #### * Pandas for Cleaning the Data
 #### * Matplotlib, Seaborn for Visualization
-#### * Jupyter Notebook
+#### * Jupyter Notebook for create and share documents that integrate live code, equations, computational output, visualizations, and other multimedia resources, along with explanatory text in a single document.
 
 ### Conclusion
 * No data from New York
