@@ -18,7 +18,7 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 ![gh](https://user-images.githubusercontent.com/79318960/143535805-a972b31b-a03a-4379-998d-0f1f3387a6a2.png)
 
-#### Pandas for Cleaning the Data
-#### Matplotlib, Seaborn for Visualization
+#### * Pandas for Cleaning the Data
+#### * Matplotlib, Seaborn for Visualization
 
 
