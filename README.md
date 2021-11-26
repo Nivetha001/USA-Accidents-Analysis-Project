@@ -20,5 +20,11 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 #### * Pandas for Cleaning the Data
 #### * Matplotlib, Seaborn for Visualization
+#### * Jupyter Notebook
 
-
+### Conclusion
+* No data from New York
+* The number of accidents per city decreases exponentially
+* Less than 2% of cities have more than 1000 yearly accidents.
+* 97% of cities have less than 1000 yearly accidents.
+* Over 1167 cities have reported just one accident (need to investigate)
