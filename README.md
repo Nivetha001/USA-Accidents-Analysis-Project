@@ -1,7 +1,7 @@
 ## US-Accidents-Analysis-Project
 
-Technology : Business Intelligence
-Domain     : Transportation
+#### Technology : Business Intelligence
+#### Domain     : Transportation
 ### Inspiration
 US-Accidents can be used for numerous applications such as real-time car accident prediction, studying car accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence. 
 
