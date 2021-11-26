@@ -9,7 +9,7 @@ US-Accidents can be used for numerous applications such as real-time car acciden
 
 The most recent release of the dataset can also be useful to study the impact of COVID-19 on traffic behavior and accidents.
 
-### About Data Set
+### Data Description
 This Data Set Contains 1.5 Million Records in this dataset
 DATA SET LINK:https://www.kaggle.com/sobhanmoosavi/us-accidents
 This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2020.
