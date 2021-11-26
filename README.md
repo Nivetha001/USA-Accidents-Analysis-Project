@@ -4,7 +4,7 @@ __________________________________________________________________________
 #### Technology : Business Intelligence
 #### Domain     : Transportation
 ### 🕵 Inspiration
-____________________________________________________________________________________________________________________________
+*******************************************
 US-Accidents can be used for numerous applications such as real-time car accident prediction, studying car accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence. 
 
 ![us acc](https://user-images.githubusercontent.com/79318960/143535268-17e1309f-78c8-4927-bb31-80d525eac339.png)
