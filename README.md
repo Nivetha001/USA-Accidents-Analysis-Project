@@ -1,4 +1,4 @@
-## US-Accidents-Analysis-Project
+## US-Accidents-Data Analysis-Project
 __________________________________________________________________________
 
 #### Technology : Business Intelligence
